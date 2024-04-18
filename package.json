@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Algoritmos Basicos con Javascript",
+  "main": "ejercicio/js/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node ejercicio/js/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-prompt": "^1.0.1"
+  }
+}
